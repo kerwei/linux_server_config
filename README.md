@@ -1,6 +1,6 @@
 # linux_server_config
 ## Udacity Linux Server Configuration Project
-## 1. IP: 13.228.229.122:22
+## 1. IP: 13.228.229.122:2200
 ## 2. URL: http://13.228.229.122/
 ## 3. Installed:
   1. PostgreSQL 9.5
