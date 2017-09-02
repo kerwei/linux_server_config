@@ -10,8 +10,8 @@
     c. SQL Alchemy
     d. OAuth2Client
 ## 4. Update all currently installed packages
-sudo apt-get update
-sudo apt-get upgrade
+1. sudo apt-get update
+2. sudo apt-get upgrade
 
 ## 5. Change the SSH port from 22 to 2200
 1. 'sudo nano /etc/ssh/sshd_config' and then change the port listener from 22 to 2200
