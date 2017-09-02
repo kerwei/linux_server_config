@@ -27,3 +27,10 @@
   b. 'sudo ufw allow 80' --HTTP
   c. 'sudo ufw allow 123' --NTP
 4. Start UFW up with 'sudo ufw enable'
+
+## 8. References
+1. http://bodhizazen.com/Tutorials/SSH_keys#Generate
+2. http://linuxproblem.org/art_9.html
+3. https://help.ubuntu.com/lts/serverguide/NTP.html
+4. https://devops.profitbricks.com/tutorials/install-and-configure-mod_wsgi-on-ubuntu-1604-1/
+5. https://stackoverflow.com/questions/9353822/connecting-postgresql-with-sqlalchemy
